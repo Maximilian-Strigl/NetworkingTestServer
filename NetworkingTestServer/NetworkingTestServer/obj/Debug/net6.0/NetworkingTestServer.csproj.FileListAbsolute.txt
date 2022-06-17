@@ -1,0 +1,15 @@
+D:\GitHub\NetworkingTestServer\NetworkingTestServer\NetworkingTestServer\bin\Debug\net6.0\NetworkingTestServer.exe
+D:\GitHub\NetworkingTestServer\NetworkingTestServer\NetworkingTestServer\bin\Debug\net6.0\NetworkingTestServer.deps.json
+D:\GitHub\NetworkingTestServer\NetworkingTestServer\NetworkingTestServer\bin\Debug\net6.0\NetworkingTestServer.runtimeconfig.json
+D:\GitHub\NetworkingTestServer\NetworkingTestServer\NetworkingTestServer\bin\Debug\net6.0\NetworkingTestServer.dll
+D:\GitHub\NetworkingTestServer\NetworkingTestServer\NetworkingTestServer\bin\Debug\net6.0\NetworkingTestServer.pdb
+D:\GitHub\NetworkingTestServer\NetworkingTestServer\NetworkingTestServer\obj\Debug\net6.0\NetworkingTestServer.csproj.AssemblyReference.cache
+D:\GitHub\NetworkingTestServer\NetworkingTestServer\NetworkingTestServer\obj\Debug\net6.0\NetworkingTestServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\NetworkingTestServer\NetworkingTestServer\NetworkingTestServer\obj\Debug\net6.0\NetworkingTestServer.AssemblyInfoInputs.cache
+D:\GitHub\NetworkingTestServer\NetworkingTestServer\NetworkingTestServer\obj\Debug\net6.0\NetworkingTestServer.AssemblyInfo.cs
+D:\GitHub\NetworkingTestServer\NetworkingTestServer\NetworkingTestServer\obj\Debug\net6.0\NetworkingTestServer.csproj.CoreCompileInputs.cache
+D:\GitHub\NetworkingTestServer\NetworkingTestServer\NetworkingTestServer\obj\Debug\net6.0\NetworkingTestServer.dll
+D:\GitHub\NetworkingTestServer\NetworkingTestServer\NetworkingTestServer\obj\Debug\net6.0\refint\NetworkingTestServer.dll
+D:\GitHub\NetworkingTestServer\NetworkingTestServer\NetworkingTestServer\obj\Debug\net6.0\NetworkingTestServer.pdb
+D:\GitHub\NetworkingTestServer\NetworkingTestServer\NetworkingTestServer\obj\Debug\net6.0\NetworkingTestServer.genruntimeconfig.cache
+D:\GitHub\NetworkingTestServer\NetworkingTestServer\NetworkingTestServer\obj\Debug\net6.0\ref\NetworkingTestServer.dll
